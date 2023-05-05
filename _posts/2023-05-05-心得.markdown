@@ -1,25 +1,25 @@
-```yaml
 ---
 title: 心得
 date: 2023-05-05 13:21:15 +0800
 categories: [Project,Lab]
 tags: homework
+author: author001
 ---
-```
+
 
 > **博客主题及其选取原因：**
 >
 > Jekyll them Chirpy，比较简介美观
 
-> 博客页面布局及设计思路：
+> **博客页面布局及设计思路：**
 >
 > 包括了home、categories、tags、archives、about五个模板，分别呈现主页、分类、标签等
 
-> 博客样式设计及其美学考量：
+> **博客样式设计及其美学考量：**
 >
 > 采用了比较主流的cotes2020模板，比较流行且简洁大方
 
-> 博客制作过程中遇到的问题及其解决方法：
+> **博客制作过程中遇到的问题及其解决方法：**
 >
 > ![image-20230505140223397](https://github.com/yuanam/yuanam.github.io/blob/main/_posts/image-20230505140223397.png)
 >
