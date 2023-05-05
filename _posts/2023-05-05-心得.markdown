@@ -21,6 +21,8 @@ author: author001
 
 > **博客制作过程中遇到的问题及其解决方法：**
 >
-> ![image-20230505140223397](image-20230505140223397.png)
+> ![问题]({{ "/assets/images4post/pic1.jpg" | absolute_url }})
 >
-> coding中遇到的问题，注意代码正确性
+> - coding中遇到的问题，注意代码正确性
+>  
+> - 图片显示问题：jekyll框架下post中引用asset资源目录的图片语法(绝对路径)
