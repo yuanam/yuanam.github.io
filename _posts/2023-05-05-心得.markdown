@@ -21,6 +21,6 @@ author: author001
 
 > **博客制作过程中遇到的问题及其解决方法：**
 >
-> ![image-20230505140223397](https://github.com/yuanam/yuanam.github.io/blob/main/_posts/image-20230505140223397.png)
+> ![image-20230505140223397](image-20230505140223397.png)
 >
 > coding中遇到的问题，注意代码正确性
