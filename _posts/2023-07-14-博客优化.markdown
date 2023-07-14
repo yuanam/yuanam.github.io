@@ -15,6 +15,8 @@ author: author001
   评论功能中，使用了GitHub Discussions把评论放到博客系统的代码中统一管理。
   
   - 环境配置
+    
     ![配置]({{ "/assets/comments1.png" | absolute_url }})
   - 评论呈现
+    
     ![评论]({{ "/assets/comments2.png" | absolute_url }})
