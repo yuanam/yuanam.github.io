@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: JingQingyuan's Page # the main title
 
-tagline: a project for cloud computing # it will display as the sub-title
+tagline: self_blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
